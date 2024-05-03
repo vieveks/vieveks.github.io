@@ -2,9 +2,9 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Vivek Padman
+Vivek Padman
+Ai Researcher
 
 Show Contacts
 
@@ -12,13 +12,13 @@ Email
 richard@example.com
 
 Phone
-+1 (213) 352-2795
++91 8793678210
 
 Birthday
-June 23, 1982
+Feb 11, 2000
 
 Location
-Sacramento, California, USA
+Pune, Maharashtra, India
 
 # navbar
 
